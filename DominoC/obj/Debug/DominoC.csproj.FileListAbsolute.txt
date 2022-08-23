@@ -1,0 +1,10 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\DominoC\bin\Debug\DominoC.exe.config
+D:\Users\Преподавание\Программирование\dl\300Additional\DominoReady\DominoC\DominoC\bin\Debug\DominoC.exe.config
+D:\Users\Преподавание\Программирование\dl\300Additional\DominoReady\DominoC\DominoC\obj\Debug\DominoC.csprojResolveAssemblyReference.cache
+D:\Users\Преподавание\Программирование\dl\300Additional\DominoReady\DominoC\DominoC\bin\Debug\DominoC.exe
+D:\Users\Преподавание\Программирование\dl\300Additional\DominoReady\DominoC\DominoC\bin\Debug\DominoC.pdb
+D:\Users\Преподавание\Программирование\dl\300Additional\DominoReady\DominoC\DominoC\obj\Debug\DominoC.exe
+D:\Users\Преподавание\Программирование\dl\300Additional\DominoReady\DominoC\DominoC\obj\Debug\DominoC.pdb
+D:\Users\Преподавание\Программирование\dl\300Additional\DominoC\DominoC\bin\Debug\DominoC.exe.config
+D:\Users\Преподавание\Программирование\dl\300Additional\DominoC\DominoC\obj\Debug\DominoC.exe
+D:\Users\Преподавание\Программирование\dl\300Additional\DominoC\DominoC\obj\Debug\DominoC.pdb
